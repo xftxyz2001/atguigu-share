@@ -19,6 +19,7 @@
 
 
 ## 资料
+- [java项目小谷充电宝，springai项目，企业级大模型全栈项目](https://www.bilibili.com/video/BV1HCQBYUERb)
 - [画图](./画图/)
 - [数据库表.sql](./sql脚本/完整数据库表.sql)
 - [Nacos配置](./Nacos配置/nacos_config_export_20250313222602.zip)
